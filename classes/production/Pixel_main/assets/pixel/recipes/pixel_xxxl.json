@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "item": "pixel:pixel_xxl"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  ],
+  "result": {
+    "item": "pixel:pixel_xxxl"
+  }
+}

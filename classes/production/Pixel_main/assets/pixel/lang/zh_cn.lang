@@ -1,0 +1,36 @@
+item.pixel:pixel_xs.name=加小号像素画
+item.pixel:pixel_s.name=小号像素画
+item.pixel:pixel_m.name=中号像素画
+item.pixel:pixel_l.name=大号像素画
+item.pixel:pixel_xl.name=加大号像素画
+item.pixel:pixel_xxl.name=水平像素画
+item.pixel:pixel_xxxl.name=水平大号像素画
+item.pixel:pixel_xxxxl.name=水平加大号像素画
+
+item.pixel:trans_pixel_xs.name=透明加小号像素画
+item.pixel:trans_pixel_s.name=透明小号像素画
+item.pixel:trans_pixel_m.name=透明中号号像素画
+item.pixel:trans_pixel_l.name=透明大号像素画
+item.pixel:trans_pixel_xl.name=透明加大号像素画
+
+item.pixel:pixel_origin.name=标准尺寸像素画
+
+item.pixel:pixel_xs.1.desc=尺寸(高): 50
+item.pixel:pixel_s.1.desc=尺寸(高): 100
+item.pixel:pixel_m.1.desc=尺寸(高): 150
+item.pixel:pixel_l.1.desc=尺寸(高): 200
+item.pixel:pixel_xl.1.desc=尺寸(高): 250
+item.pixel:pixel_xxl.1.desc=尺寸(高): 300
+item.pixel:pixel_xxxl.1.desc=尺寸(高): 400
+item.pixel:pixel_xxxxl.1.desc=尺寸(高): 500
+
+item.pixel:trans_pixel_xs.1.desc=尺寸(高): 50
+item.pixel:trans_pixel_s.1.desc=尺寸(高): 100
+item.pixel:trans_pixel_m.1.desc=尺寸(高): 150
+item.pixel:trans_pixel_l.1.desc=尺寸(高): 200
+item.pixel:trans_pixel_xl.1.desc=尺寸(高): 250
+
+item.pixel:pixel_origin.1.desc=尺寸: 标准(原图大小)
+
+
+itemGroup.pixelPainting=像素画

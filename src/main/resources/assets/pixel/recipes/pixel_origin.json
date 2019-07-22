@@ -1,0 +1,41 @@
+{
+  "type": "forge:ore_shaped",
+  "mirror":true,
+  "pattern": [
+    "abc",
+    "d#e",
+    "fgh"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "a": {
+      "item": "pixel:pixel_xs"
+    },
+    "b": {
+      "item": "pixel:pixel_s"
+    },
+    "c": {
+      "item": "pixel:pixel_m"
+    },
+    "d": {
+      "item": "pixel:pixel_l"
+    },
+    "e": {
+      "item": "pixel:pixel_xl"
+    },
+    "f": {
+      "item": "pixel:pixel_xxl"
+    },
+    "g": {
+      "item": "pixel:pixel_xxxl"
+    },
+    "h": {
+      "item": "pixel:pixel_xxxxl"
+    }
+  },
+  "result": {
+    "item": "pixel:pixel_origin"
+  }
+}
